@@ -61,3 +61,68 @@
   max-height: 49px;
   width: auto;
 }
+
+/* Custom styles for the "Join as Talent" button */
+.join-btn {
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.join-btn:hover {
+  background-color: blue; /* Light blue background on hover */
+  color: #fff; /* White text on hover */
+}
+
+/* !section 4 */
+
+.section4 {
+  background-color: #f1f5f7;
+  min-height: 200px;
+}
+
+.section-konten4 {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 100px 0;
+}
+
+/* !section 5 */
+
+.section5 {
+  background-color: #fff;
+  min-height: 200px;
+}
+
+.section-konten5 {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 100px 0;
+}
+
+.section-konten5 ul {
+  list-style-type: none;
+  text-align: center;
+}
+
+.section-konten5 h3 {
+  font-size: larger;
+}
+
+.section-konten5 p {
+  font-size: small;
+}
+
+/* ! section 6 */
+.section6 {
+  background-color: #f1f5f7;
+  min-height: 200px;
+}
+
+.section-konten6 {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 100px 0;
+}
+
+.section-konten6 ul {
+  list-style-type: none;
+}
